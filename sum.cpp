@@ -1,3 +1,4 @@
+// sum.cpp
 #include "sum.h"
 
 int sum(int n) {
@@ -6,4 +7,3 @@ int sum(int n) {
     res += i;
   return res;
 }
-
